@@ -1,4 +1,4 @@
-# nager – Open Source Software 🚀  
+# nager – Open Source Projects 🚀  
 
 Creating **.NET tools** that power developers worldwide.  
 ✅ Over **26M downloads** on NuGet  
