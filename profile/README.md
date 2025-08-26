@@ -1,8 +1,49 @@
-# nager - open source projects
+# nager – Open Source Software 🚀  
 
-Software projects with a focus on **.NET** are located under the umbrella of **nager**.
-We live for a lively and open software development.
-The community is important to let projects grow and prosper.
-Besides, it's fun to work together with other great creators.
+Creating **.NET tools** that power developers worldwide.  
+✅ Over **26M downloads** on NuGet  
+✅ Focused, reliable, community-driven projects  
+✅ Open source that stays free – with your support  
 
-If you want to support the thought and the idea you can also activate a sponsorship and support the whole thing [here](https://github.com/sponsors/nager). :penguin:
+👉 [Sponsor us](https://github.com/sponsors/nager) to help keep innovation open 🐧  
+
+---
+
+## About nager  
+
+We build and maintain high-quality **.NET open source projects** under the umbrella of **nager**.  
+Our mission is simple: open, collaborative, and sustainable software development.  
+The community is at the heart of our work—projects grow stronger when created together.  
+
+With more than **26 million downloads**, our [NuGet](https://www.nuget.org/profiles/nager) packages are trusted by developers worldwide. Each project focuses on solving a specific challenge in a clean and efficient way.  
+
+---
+
+## Support & Sponsorship  
+
+Your sponsorship helps us:  
+- Add new features and improvements  
+- Resolve issues faster  
+- Keep projects stable, modern, and free for everyone  
+
+As a sponsor, you’ll receive:  
+- Priority support for issues and requests  
+- Access to license keys for enhanced features in projects such as **Nager.Date** (NuGet & Docker)  
+- The chance to directly influence the roadmap  
+
+➡️ [Become a Sponsor](https://github.com/sponsors/nager) and support sustainable open source. 🐧  
+
+---
+
+## Featured Projects  
+
+- [Nager.Date](https://github.com/nager/Nager.Date) – Public holiday & long weekend calculation  
+- [Nager.PublicSuffix](https://github.com/nager/Nager.PublicSuffix) – Domain parser based on the public suffix list  
+- [Nager.Country](https://github.com/nager/Nager.Country) – Country data and ISO standards  
+- [Nager.Dns](https://github.com/nager/Nager.Dns) – DNS protocol library  
+- [Nager.EmailAuthentication](https://github.com/nager/Nager.EmailAuthentication) – SPF, DKIM & DMARC validation  
+- [Nager.TcpClient](https://github.com/nager/Nager.TcpClient) – Simple .NET TCP client  
+- [Nager.VideoStream](https://github.com/nager/Nager.VideoStream) – Lightweight video streaming tools  
+- …and more on [GitHub](https://github.com/nager).  
+
+---
