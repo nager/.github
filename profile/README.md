@@ -44,6 +44,6 @@ As a sponsor, you’ll receive:
 - [Nager.EmailAuthentication](https://github.com/nager/Nager.EmailAuthentication) – SPF, DKIM & DMARC validation
 - [Nager.TcpClient](https://github.com/nager/Nager.TcpClient) – Lightweight asynchronous .NET TCP client
 - [Nager.VideoStream](https://github.com/nager/Nager.VideoStream) – Lightweight video streaming tools
-- …and more on [GitHub](https://github.com/nager).
+- …and more on [GitHub](https://github.com/orgs/nager/repositories).
 
 ---
