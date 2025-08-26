@@ -37,13 +37,13 @@ As a sponsor, you’ll receive:
 
 ## Featured Projects  
 
-- [Nager.Date](https://github.com/nager/Nager.Date) – Public holiday & long weekend calculation  
-- [Nager.PublicSuffix](https://github.com/nager/Nager.PublicSuffix) – Domain parser based on the public suffix list  
-- [Nager.Country](https://github.com/nager/Nager.Country) – Country data and ISO standards  
-- [Nager.Dns](https://github.com/nager/Nager.Dns) – DNS protocol library  
-- [Nager.EmailAuthentication](https://github.com/nager/Nager.EmailAuthentication) – SPF, DKIM & DMARC validation  
-- [Nager.TcpClient](https://github.com/nager/Nager.TcpClient) – Simple .NET TCP client  
-- [Nager.VideoStream](https://github.com/nager/Nager.VideoStream) – Lightweight video streaming tools  
-- …and more on [GitHub](https://github.com/nager).  
+- [Nager.Date](https://github.com/nager/Nager.Date) – Public holiday & long weekend calculation
+- [Nager.PublicSuffix](https://github.com/nager/Nager.PublicSuffix) – Domain parser based on the public suffix list
+- [Nager.Country](https://github.com/nager/Nager.Country) – Country data and ISO standards
+- [Nager.Dns](https://github.com/nager/Nager.Dns) – DNS protocol library
+- [Nager.EmailAuthentication](https://github.com/nager/Nager.EmailAuthentication) – SPF, DKIM & DMARC validation
+- [Nager.TcpClient](https://github.com/nager/Nager.TcpClient) – Lightweight asynchronous .NET TCP client
+- [Nager.VideoStream](https://github.com/nager/Nager.VideoStream) – Lightweight video streaming tools
+- …and more on [GitHub](https://github.com/nager).
 
 ---
