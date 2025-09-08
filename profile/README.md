@@ -1,7 +1,7 @@
 # nager – Open Source Projects 🚀  
 
 Creating **.NET tools** that power developers worldwide.  
-✅ Over **26M downloads** on NuGet  
+✅ Over **27M downloads** on NuGet  
 ✅ Focused, reliable, community-driven projects  
 ✅ Open source that stays free – with your support  
 
