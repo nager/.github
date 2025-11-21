@@ -1,7 +1,7 @@
 # nager – Open Source Projects 🚀  
 
 Creating **.NET tools** that power developers worldwide.  
-✅ Over **29M downloads** on NuGet  
+✅ Over **30M downloads** on NuGet  
 ✅ Focused, reliable, community-driven projects  
 ✅ Open source that stays free – with your support  
 
@@ -15,7 +15,7 @@ We build and maintain high-quality **.NET open source projects** under the umbre
 Our mission is simple: open, collaborative, and sustainable software development.  
 The community is at the heart of our work—projects grow stronger when created together.  
 
-With more than **29 million downloads**, our [NuGet](https://www.nuget.org/profiles/nager) packages are trusted by developers worldwide. Each project focuses on solving a specific challenge in a clean and efficient way.  
+With more than **30 million downloads**, our [NuGet](https://www.nuget.org/profiles/nager) packages are trusted by developers worldwide. Each project focuses on solving a specific challenge in a clean and efficient way.  
 
 ---
 
