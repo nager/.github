@@ -37,7 +37,7 @@ As a sponsor, you’ll receive:
 
 ## Featured Projects  
 
-- [Nager.Date](https://github.com/nager/Nager.Date) – Public holiday & long weekend calculation
+- [Nager.Date](https://github.com/nager/Nager.Date) – Easily access public holidays for 100+ countries
 - [Nager.PublicSuffix](https://github.com/nager/Nager.PublicSuffix) – Domain parser based on the public suffix list
 - [Nager.Country](https://github.com/nager/Nager.Country) – Country data and ISO standards
 - [Nager.Dns](https://github.com/nager/Nager.Dns) – DNS protocol library
