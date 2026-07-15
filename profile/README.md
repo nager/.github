@@ -1,7 +1,7 @@
 # nager – Open Source Projects 🚀  
 
 Creating **.NET tools** that power developers worldwide.  
-✅ Over **37M downloads** on NuGet  
+✅ Over **38M downloads** on NuGet  
 ✅ Focused, reliable, community-driven projects  
 ✅ Open source that stays free – with your support  
 
@@ -15,7 +15,7 @@ We build and maintain high-quality **.NET open source projects** under the umbre
 Our mission is simple: open, collaborative, and sustainable software development.  
 The community is at the heart of our work—projects grow stronger when created together.  
 
-With more than **37 million downloads**, our [NuGet](https://www.nuget.org/profiles/nager) packages are trusted by developers worldwide. Each project focuses on solving a specific challenge in a clean and efficient way.  
+With more than **38 million downloads**, our [NuGet](https://www.nuget.org/profiles/nager) packages are trusted by developers worldwide. Each project focuses on solving a specific challenge in a clean and efficient way.  
 
 ---
 
@@ -37,7 +37,7 @@ As a sponsor, you’ll receive:
 
 ## Featured Projects  
 
-- [Nager.Date](https://github.com/nager/Nager.Date) – Easily access public holidays for 150+ countries
+- [Nager.Date](https://github.com/nager/Nager.Date) – Easily access public holidays for 200+ countries
 - [Nager.PublicSuffix](https://github.com/nager/Nager.PublicSuffix) – Domain parser based on the public suffix list
 - [Nager.Country](https://github.com/nager/Nager.Country) – Country data and ISO standards
 - [Nager.Dns](https://github.com/nager/Nager.Dns) – DNS protocol library
